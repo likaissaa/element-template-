@@ -1,0 +1,111 @@
+[
+    {
+        "text": "table",
+        "id": "11",
+        "icon": "el-icon-s-data",
+        "path": "",
+        "children": [
+            {
+                "id": "12",
+                "parentid": 11,
+                "text": "简单table",
+                "icon": "el-icon-s-grid",
+                "path": "/table1",
+                "url": "table/table1",
+                "name": "table1",
+                "istab": "ture",
+                "children": []
+            },
+            {
+                "id": "13",
+                "parentid": 11,
+                "text": "带复选框table",
+                "icon": "el-icon-s-grid",
+                "path": "/table2",
+                "name": "table2",
+                "url": "table/table2",
+                "istab": "ture",
+                "children": []
+            },
+            {
+                "id": "14",
+                "parentid": 11,
+                "text": "带斑马纹表格",
+                "icon": "el-icon-s-grid",
+                "path": "/table3",
+                "name": "table3",
+                "url": "table/table3",
+                "istab": "ture",
+                "children": []
+            },
+            {
+                "id": "145",
+                "parentid": 11,
+                "text": "带状态表格",
+                "icon": "el-icon-s-grid",
+                "path": "/table4",
+                "name": "table4",
+                "url": "table/table4",
+                "istab": "ture",
+                "children": []
+            }
+        ]
+    },
+    {
+        "text": "测试1",
+        "id": "1",
+        "icon": "el-icon-s-claim",
+        "path": "",
+        "children": [
+            {
+                "id": "4",
+                "parentid": 1,
+                "text": "测试1-1",
+                "icon": "el-icon-chat-dot-round",
+                "path": "",
+                "children": [
+                    {
+                        "id": "8",
+                        "parentid": 1,
+                        "text": "测试1-1-1",
+                        "icon": "el-icon-cloudy",
+                        "path": "/test1-1-1",
+                        "name": "test1-1-1",
+                        "url": "test/test1-1-1",
+                        "istab": "ture",
+                        "children": []
+                    },
+                    {
+                        "id": "5",
+                        "parentid": 1,
+                        "text": "测试1-1-2",
+                        "name": "test1-1-2",
+                        "icon": "el-icon-files",
+                        "path": "/test1-1-2",
+                        "url": "test/test1-1-2",
+                        "istab": "ture",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "10",
+                "parentid": 1,
+                "text": "测试1-2",
+                "icon": "el-icon-shopping-cart-1",
+                "path": "/test1-2",
+                "name": "test1-2",
+                "url": "test/test1-2",
+                "istab": "ture",
+                "children": []
+            }
+        ]
+    },
+    {
+        "text": "测试3",
+        "id": "3",
+        "icon": "el-icon-monitor",
+        "path": "",
+        "children": []
+    }
+]
